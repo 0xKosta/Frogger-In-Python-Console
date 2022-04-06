@@ -15,9 +15,6 @@ import random
 import time
 import keyboard
 import os
-#DEFINE HEIGHT = 30
-#DEFINE LENGTH = 30
-
 
 
 ######################
